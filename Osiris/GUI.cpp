@@ -1,4 +1,4 @@
-﻿#include <array>
+#include <array>
 #include <cwctype>
 #include <fstream>
 #include <functional>
